@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCart Cost & Profit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Default margin %"
+msgstr ""
+
+msgid "Example site:"
+msgstr ""
+
+msgid "Net profit"
+msgstr ""
+
+msgid "Profit"
+msgstr ""
+
+msgid "Profit column in product list"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Suggested margin for new products."
+msgstr ""
+
+msgid "This plugin requires WooCommerce to be active."
+msgstr ""
+
+msgid "Unit cost"
+msgstr ""
+
+msgid "What this product costs you."
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "You are not allowed to access this page."
+msgstr ""
